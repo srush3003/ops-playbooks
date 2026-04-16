@@ -37,5 +37,4 @@ Built by Srush, an Operations Architect working with
 scaling companies and technical teams across EU and US
 time zones.
 
-Full portfolio: <a href="https://srushtip.notion.site/portfolio" target="_blank">srushtip.notion.site/portfolio</a>  
 LinkedIn: <a href="https://linkedin.com/in/srushti-pagrut" target="_blank">linkedin.com/in/srushti-pagrut</a>
